@@ -1,7 +1,7 @@
 {
-  "name": "@andronics/typescript-boilerplate",
+  "name": "@andronics/boost",
   "version": "1.0.0",
-  "description": "TypeScript Boilerplate",
+  "description": "Framework for developing micro services",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "prepublish": "tsc",
